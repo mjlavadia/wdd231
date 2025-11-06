@@ -1,0 +1,78 @@
+{
+  "wardMembers": [
+    {
+      "familyName": "Santos",
+      "moveInDate": "2024-08-15",
+      "numberOfPeople": 5,
+      "visitedByBishopric": true,
+      "members": [
+        {
+          "name": "Carlos Santos",
+          "gender": "Male",
+          "birthdate": "1982-03-14"
+        },
+        {
+          "name": "Maria Santos",
+          "gender": "Female",
+          "birthdate": "1985-09-25"
+        },
+        {
+          "name": "Miguel Santos",
+          "gender": "Male",
+          "birthdate": "2010-06-10"
+        },
+        {
+          "name": "Angela Santos",
+          "gender": "Female",
+          "birthdate": "2013-11-08"
+        },
+        {
+          "name": "Sofia Santos",
+          "gender": "Female",
+          "birthdate": "2017-02-19"
+        }
+      ]
+    },
+    {
+      "familyName": "Reyes",
+      "moveInDate": "2025-01-05",
+      "numberOfPeople": 3,
+      "visitedByBishopric": false,
+      "members": [
+        {
+          "name": "John Reyes",
+          "gender": "Male",
+          "birthdate": "1990-05-30"
+        },
+        {
+          "name": "Ella Reyes",
+          "gender": "Female",
+          "birthdate": "1992-12-12"
+        },
+        {
+          "name": "Liam Reyes",
+          "gender": "Male",
+          "birthdate": "2018-04-09"
+        }
+      ]
+    },
+    {
+      "familyName": "Cruz",
+      "moveInDate": "2023-12-22",
+      "numberOfPeople": 2,
+      "visitedByBishopric": true,
+      "members": [
+        {
+          "name": "Roberto Cruz",
+          "gender": "Male",
+          "birthdate": "1975-10-07"
+        },
+        {
+          "name": "Elena Cruz",
+          "gender": "Female",
+          "birthdate": "1977-01-18"
+        }
+      ]
+    }
+  ]
+}
