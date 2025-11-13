@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Rivertown Bakery",
+    "address": "12 Market St, Rivertown",
+    "phone": "(555) 100-1010",
+    "url": "https://rivertownbakery.example",
+    "image": "images/biz-01.jpg",
+    "membership": 3,
+    "notes": "Family-run bakery since 1998"
+  },
+  {
+    "name": "Blue Harbor Insurance",
+    "address": "201 Harbor Ave",
+    "phone": "(555) 200-2020",
+    "url": "https://blueharbor.example",
+    "image": "images/biz-02.jpg",
+    "membership": 2,
+    "notes": "Small business insurance"
+  },
+  {
+    "name": "Greenleaf Landscaping",
+    "address": "87 Greenway Dr",
+    "phone": "(555) 300-3030",
+    "url": "https://greenleaf.example",
+    "image": "images/biz-03.jpg",
+    "membership": 1,
+    "notes": "Residential and commercial landscaping"
+  },
+  {
+    "name": "Main Street Hardware",
+    "address": "5 Main St",
+    "phone": "(555) 400-4040",
+    "url": "https://mainhardware.example",
+    "image": "images/biz-04.jpg",
+    "membership": 3,
+    "notes": "Tools, paint, and advice"
+  },
+  {
+    "name": "Harborview Cafe",
+    "address": "120 Pier Road",
+    "phone": "(555) 500-5050",
+    "url": "https://harborviewcafe.example",
+    "image": "images/biz-05.jpg",
+    "membership": 2,
+    "notes": "Breakfast and lunch"
+  },
+  {
+    "name": "Rivertown Auto Repair",
+    "address": "44 Garage Ln",
+    "phone": "(555) 600-6060",
+    "url": "https://rivertownauto.example",
+    "image": "images/biz-06.jpg",
+    "membership": 1,
+    "notes": "ASE certified technicians"
+  },
+  {
+    "name": "River Arts Studio",
+    "address": "9 Gallery Row",
+    "phone": "(555) 700-7070",
+    "url": "https://riverarts.example",
+    "image": "images/biz-07.jpg",
+    "membership": 2,
+    "notes": "Workshops for all ages"
+  }
+]
